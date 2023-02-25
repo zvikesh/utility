@@ -19,7 +19,7 @@ Search in Example Programs of the ABAP Keyword Documentation
 Flight Reference Scenario: Data Generator
 - /DMO/CL_FLIGHT_DATA_GENERATOR
 
-Anlaytical Query Reference
+Analytical Query Reference
 - C_TrialBalance
 - C_FixedAssetBalance
 - C_GoodsMovementQuery
