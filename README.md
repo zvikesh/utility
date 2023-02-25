@@ -10,6 +10,9 @@ Statis Exception Class with Dynamic Text
 
 # Standard Utility Objects
 
+Mass Activation of Objects
+- RADMASG0_C3
+
 Search in Example Programs of the ABAP Keyword Documentation
 - ABAP_EXAMPLE_SEARCH
 
