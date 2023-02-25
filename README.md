@@ -5,7 +5,7 @@ Scrapbook
 Message Class
 - ZVKS
 
-Statis Exception Class with Dynamic Text
+Static Exception Class with Dynamic Text
 - ZVKS_CX_SY_DYN_TEXT
 
 # Standard Utility Objects
