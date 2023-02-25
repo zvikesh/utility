@@ -1,4 +1,12 @@
 # Utility Objects in this Repository
+Scrapbook
+- ZVKS_CL_TEMPORARY
+
+Message Class
+- ZVKS
+
+Statis Exception Class with Dynamic Text
+- ZVKS_CX_SY_DYN_TEXT
 
 # Standard Utility Objects
 
