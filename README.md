@@ -23,6 +23,7 @@ Analytical Query Reference
 - C_TrialBalance
 - C_FixedAssetBalance
 - C_GoodsMovementQuery
+- C_GLLineItemsQ0001 (Journal Entry Analyzer)
 
 Annotations Reference
 - DD_CDS_HEADER_ANNOTATIONS
