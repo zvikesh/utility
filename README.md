@@ -34,10 +34,12 @@ Annotations Reference
 
 # Embedded Analytics
 
-Emebbeded Analytics Configuration<br>
+Emebbeded Analytics Configuration
+
 https://wiki.scn.sap.com/wiki/display/BOBJ/EA-Configuration
 
-System Alias<br>
+System Alias
+
 https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/cdc25c83b63e482586b31b8acd49cf2f/980811e0a4c549279b0c5696f146ee65.html?locale=en-US
 
 SAP Notes
