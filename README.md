@@ -80,9 +80,7 @@ Clear cache in backend source system
 Clear cache in FLP Server
 - SMICM
 
-Chace buster 
-- 
-
+Chace buster
 /UI2/FLP	Launch Fiori Launchpad.
 /UI2/FLPD_CUST	Launch Fiori Launchpad Designer.
 SACMSEL	To check DCL impact on output.
