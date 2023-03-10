@@ -46,7 +46,7 @@ SAP Notes
 - 3148622 Query Browser/View browser/Custom Analytical Queries app is throwing error.
 - 2557379 System does not exist.
 
-# Fiori Transactions
+# Fiori Configuration Transactions
 
 Semantic Objects
 - /UI2/SEMOBJ_SAP Display semantic objects shipped by SAP.
@@ -60,3 +60,34 @@ Gateway Client
 
 Service Maintenance
 - /IWFND/MAINT_SERVICE
+
+# Fiori Troubleshooting Transactions
+/IWFND/ERR_LOG	To check error log in Fiori system.
+/IWBEP/ERR_LOG	To check error log in Gateway system.
+
+Check $metadata call in backend gateway client system
+- /IWFND/GW_CLIENT (/IWFND/MAINT_SERVICE > Gateway Client)
+
+Check configured system aliases maintained in system alias or fiori tile target mapping
+- /IWFND/ROUTING (/IWFND/MAINT_SERVICE > Go To > Routing)
+
+Clear cache in backend gateway system
+- /IWFND/CACHE_CLEANUP	To clear cache in Fiori system.
+
+Clear cache in backend source system
+- /IWBEP/CACHE_CLEANUP	To clear cache in Gateway system.
+
+Clear cache in FLP Server
+- SMICM
+
+Chace buster 
+- 
+
+/UI2/FLP	Launch Fiori Launchpad.
+/UI2/FLPD_CUST	Launch Fiori Launchpad Designer.
+SACMSEL	To check DCL impact on output.
+RSRT	To troubleshoot BI Query.
+PFCG	To add FLP catalogue and groups to the role.
+SU01	To assign roles.
+SICF	To activate services.
+SCFD_REGISTRY	In-App Extensibility Explorer
